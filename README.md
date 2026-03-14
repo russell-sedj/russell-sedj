@@ -1,62 +1,29 @@
-<h1 align="center">Hi, I am Russell Dossou-Yovo</h1>
-<p align="center">
-Full Stack Developer based in Paris
-</p>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/russelldossouyovo">LinkedIn</a> •
-<a href="mailto:russelldossyov@gmail.com">Email</a> •
-<a href="https://russelldy.codes">Portfolio</a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,50:2563EB,100:1D4ED8&text=Russell&fontColor=ffffff&fontSize=58&animation=fadeIn)
 
-## About me
+### Full Stack Developer | Paris
 
-I build robust web applications from frontend to backend, with a strong focus on clean architecture, performance, and practical business value.
+[![Portfolio](https://img.shields.io/badge/Portfolio-russelldy.codes-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://russelldy.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-russelldossouyovo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russelldossouyovo)
+[![Email](https://img.shields.io/badge/Email-russelldossyov%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russelldossyov@gmail.com)
 
-Main stack:
+</div>
 
-- Angular
-- ASP.NET Core (C#)
-- Laravel (PHP)
-- Vue.js
-- TypeScript
-- MySQL
-- Redis
-- Docker
+I build clean, useful web applications from frontend to backend with a focus on reliability, performance, and business impact.
 
-I am currently focused on building production-ready applications and collaborating on impactful products.
+## Featured Projects
 
-## Featured projects
+| Project                                                          | Description                    | Stack                 |
+| ---------------------------------------------------------------- | ------------------------------ | --------------------- |
+| [Alenia](https://github.com/russell-sedj/alenia)                 | Healthcare staffing platform   | Angular, ASP.NET Core |
+| [Mbaling Portal](https://github.com/russell-sedj/mbaling-portal) | Site de mairie de Mbaling      | Full Stack Web        |
+| [Certif](https://github.com/russell-sedj/certif)                 | Professional training platform | Laravel, MySQL        |
 
-### Alenia
+## Core Skills
 
-Healthcare staffing platform.
-Full stack work with Angular and ASP.NET Core.
+<div align="center">
 
-Repo: https://github.com/russell-sedj/alenia
+<img src="https://skillicons.dev/icons?i=angular,vue,laravel,dotnet,ts,php,cs,java,mysql,redis,docker,githubactions,git,postman,vscode" alt="Skills" />
 
-### Mbaling Portal
-
-Site de mairie de Mbaling.
-
-Repo: https://github.com/russell-sedj/mbaling-portal
-
-### Certif
-
-Professional training tracking platform for large organizations.
-
-Repo: https://github.com/russell-sedj/certif
-
-## What I bring
-
-- End to end product development
-- API design and backend architecture
-- Frontend implementation with clean UX
-- Technical documentation and maintainable code
-- Agile team collaboration
-
-## Contact
-
-- Email: russelldossyov@gmail.com
-- LinkedIn: https://www.linkedin.com/in/russelldossouyovo
-- Portfolio: https://russelldy.codes
+</div>
