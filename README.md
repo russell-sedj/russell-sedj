@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,50:2563EB,100:1D4ED8&text=Russell&fontColor=ffffff&fontSize=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,50:2563EB,100:1D4ED8&text=Hello%20there&fontColor=ffffff&fontSize=56&animation=fadeIn)
 
-### Full Stack Developer | Paris
+### Software Engineer building practical web products
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-russelldy.codes-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://russelldy.codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-russelldossouyovo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russelldossouyovo)
@@ -10,15 +10,15 @@
 
 </div>
 
-I build clean, useful web applications from frontend to backend with a focus on reliability, performance, and business impact.
+Hi, I am Russell. I build clean, useful web applications with a focus on reliability, performance, and business impact.
 
-## Featured Projects
+## A few projects from my build inventory
 
-| Project                                                          | Description                    | Stack                 |
-| ---------------------------------------------------------------- | ------------------------------ | --------------------- |
-| [Alenia](https://github.com/russell-sedj/alenia)                 | Healthcare staffing platform   | Angular, ASP.NET Core |
-| [Mbaling Portal](https://github.com/russell-sedj/mbaling-portal) | Site de mairie de Mbaling      | Full Stack Web        |
-| [Certif](https://github.com/russell-sedj/certif)                 | Professional training platform | Laravel, MySQL        |
+| Project                                                          | Description                                        | Stack                 |
+| ---------------------------------------------------------------- | -------------------------------------------------- | --------------------- |
+| [Alenia](https://github.com/russell-sedj/alenia)                 | Healthcare staffing platform                       | Angular, ASP.NET Core |
+| [Mbaling Portal](https://github.com/russell-sedj/mbaling-portal) | Municipal portal website for the Mbaling town hall | Full Stack Web        |
+| [Certif](https://github.com/russell-sedj/certif)                 | Professional training management platform          | Laravel, MySQL        |
 
 ## Core Skills
 
