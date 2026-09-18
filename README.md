@@ -49,11 +49,11 @@ My practice covers the full stack: **Angular, React and Vue/Nuxt** on the front;
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **RePlay** | Retro-gaming e-commerce: JWT auth, catalog, cart, orders, admin dashboard, 35 unit tests | Java 17, Spring Boot 3.4, Angular 18, PostgreSQL, Docker, GitHub Actions |
-| **Doc Analyzer** *(hackathon)* | Document-fraud engine: OCR + anomaly detection + AI enrichment + Airflow pipeline, microservices | Node/Express, React, Python/FastAPI, MongoDB, Airflow, Docker |
+| [**RePlay**](https://github.com/russell-sedj/RePlay) | Retro-gaming e-commerce: JWT auth, catalog, cart, orders, admin dashboard, 35 unit tests | Java 17, Spring Boot 3.4, Angular 18, PostgreSQL, Docker, GitHub Actions |
+| [**Doc Analyzer**](https://github.com/russell-sedj/doc-analyzer-hackhthon26) *(hackathon)* | Document-fraud engine: OCR + anomaly detection + AI enrichment + Airflow pipeline, microservices | Node/Express, React, Python/FastAPI, MongoDB, Airflow, Docker |
 | [**FIBEM Portal**](https://github.com/russell-sedj/mbaling-portal) | Municipal portal shipped to production: quote/invoice/credit generation, job board, KPI dashboard | Angular 21 SSR, Express, MySQL, JWT, GitHub Actions |
 | [**Certif / Trésor Public**](https://github.com/russell-sedj/certif) | Training platform for 7,000 finance-ministry agents, multi-role auth, UML/MERISE modelling | Laravel 11 / PHP 8.2, MySQL, Alpine.js |
-| **Rikos Marine** | Multilingual corporate site in production (6 languages) with full SEO | Angular 21 SSR, Tailwind, ngx-translate, Netlify |
+| [**Rikos Marine**](https://github.com/russell-sedj/rikos-marine) | Multilingual corporate site in production (6 languages) with full SEO | Angular 21 SSR, Tailwind, ngx-translate, Netlify |
 | [**Alenia**](https://github.com/russell-sedj/alenia) | Healthcare staffing platform: 3-role JWT auth, UML-modelled architecture | Angular 18, ASP.NET Core 8 (C#), EF Core, MySQL |
 
 *More:* OpenClaw (multi-agent governance, RBAC / Zero Trust), Wive (React, Node, Redis real-time), AvisSense (NLP).
